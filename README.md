@@ -1,4 +1,4 @@
-Проект написан  на Python-не использую django-rest-framework.
+Проект написан  на Python используя django-rest-framework.
 Для запуска нужно установить зависимости, выполнив команду:
   pip install -r requirements.txt
 Выполните миграции базы данных:  
